@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "serve:forti": "node ./test/testserver.js"
+  },
+  "devDependencies": {
+    "express": "^4.18.3"
+  }
+}
