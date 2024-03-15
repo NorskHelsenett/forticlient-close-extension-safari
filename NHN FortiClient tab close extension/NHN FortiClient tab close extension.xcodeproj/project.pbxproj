@@ -20,7 +20,6 @@
 		DB88BEA42BA4954100ABEF97 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = DB88BE9D2BA4954100ABEF97 /* index.html */; };
 		DB88BEA52BA4954100ABEF97 /* styles.css in Resources */ = {isa = PBXBuildFile; fileRef = DB88BE9E2BA4954100ABEF97 /* styles.css */; };
 		DB88BEA62BA4954100ABEF97 /* background.js in Resources */ = {isa = PBXBuildFile; fileRef = DB88BE9F2BA4954100ABEF97 /* background.js */; };
-		DB88BEA72BA4954100ABEF97 /* NHN foriclient closer.zip in Resources */ = {isa = PBXBuildFile; fileRef = DB88BEA02BA4954100ABEF97 /* NHN foriclient closer.zip */; };
 		DB88BEA82BA4954100ABEF97 /* main.js in Resources */ = {isa = PBXBuildFile; fileRef = DB88BEA12BA4954100ABEF97 /* main.js */; };
 		DB88BEA92BA4954100ABEF97 /* icons in Resources */ = {isa = PBXBuildFile; fileRef = DB88BEA22BA4954100ABEF97 /* icons */; };
 		DB88BEAA2BA4954100ABEF97 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = DB88BEA32BA4954100ABEF97 /* manifest.json */; };
@@ -70,7 +69,6 @@
 		DB88BE9D2BA4954100ABEF97 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = index.html; path = Resources/index.html; sourceTree = "<group>"; };
 		DB88BE9E2BA4954100ABEF97 /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; name = styles.css; path = Resources/styles.css; sourceTree = "<group>"; };
 		DB88BE9F2BA4954100ABEF97 /* background.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = background.js; path = Resources/background.js; sourceTree = "<group>"; };
-		DB88BEA02BA4954100ABEF97 /* NHN foriclient closer.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = "NHN foriclient closer.zip"; path = "Resources/NHN foriclient closer.zip"; sourceTree = "<group>"; };
 		DB88BEA12BA4954100ABEF97 /* main.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; name = main.js; path = Resources/main.js; sourceTree = "<group>"; };
 		DB88BEA22BA4954100ABEF97 /* icons */ = {isa = PBXFileReference; lastKnownFileType = folder; name = icons; path = Resources/icons; sourceTree = "<group>"; };
 		DB88BEA32BA4954100ABEF97 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = manifest.json; path = Resources/manifest.json; sourceTree = "<group>"; };
@@ -155,7 +153,6 @@
 				DB88BE9D2BA4954100ABEF97 /* index.html */,
 				DB88BE9E2BA4954100ABEF97 /* styles.css */,
 				DB88BE9F2BA4954100ABEF97 /* background.js */,
-				DB88BEA02BA4954100ABEF97 /* NHN foriclient closer.zip */,
 				DB88BEA12BA4954100ABEF97 /* main.js */,
 				DB88BEA22BA4954100ABEF97 /* icons */,
 				DB88BEA32BA4954100ABEF97 /* manifest.json */,
@@ -260,7 +257,6 @@
 			files = (
 				DB88BEA42BA4954100ABEF97 /* index.html in Resources */,
 				DB88BEAA2BA4954100ABEF97 /* manifest.json in Resources */,
-				DB88BEA72BA4954100ABEF97 /* NHN foriclient closer.zip in Resources */,
 				DB88BEA62BA4954100ABEF97 /* background.js in Resources */,
 				DB88BEA92BA4954100ABEF97 /* icons in Resources */,
 				DB88BEA52BA4954100ABEF97 /* styles.css in Resources */,
