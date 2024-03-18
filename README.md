@@ -5,7 +5,9 @@ Extension for automagically closing forticlient callback tab for safari
 # Test
 
 - Open safari
-- Go to settings
+- Open Preferences/settings
+- Open Advanced tab
+- Enable "Show develop menu in menu bar"
 - Open tab "Developer"
 - Enable "Allow unsigned extensions"
 - Activate with your thumb or password
